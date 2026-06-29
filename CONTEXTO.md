@@ -2,7 +2,7 @@
 area: trading
 estado: activo
 siguiente: "ablation del filtro RMT: pipeline completo vs. sin Marchenko-Pastur"
-repo: "[Grafos y mercado](https://github.com/daisel10/grafos-mercado-paper)"
+repo: "[Grafos y mercado](https://github.com/daisel10/paper-pump-dump-deteccion-ipr)"
 ---
 
 ## Objetivo
